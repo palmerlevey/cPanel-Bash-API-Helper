@@ -3,6 +3,8 @@
 ## cPanel Bash API Helper
 ## David Levey 
 ##
+## https://github.com/palmerlevey/cPanel-Bash-API-Helper
+##
 version='0.0.1 alpha'
 
 apiargs=''
